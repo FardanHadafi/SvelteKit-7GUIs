@@ -1,2 +1,10 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>This Projects is made to learn SvelteKit by create 7 GUIs</h1>
+<h1>You can go to each GUI by following links below</h1>
+
+<a href="/counter">Counter</a>
+<a href="/converter">Converter</a>
+<a></a>
+<a></a>
+<a></a>
+<a></a>
+<a></a>
