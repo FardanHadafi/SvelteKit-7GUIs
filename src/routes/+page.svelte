@@ -3,8 +3,8 @@
 
 <a href="/counter">Counter</a>
 <a href="/converter">Converter</a>
-<a></a>
-<a></a>
+<a href="/bookFlight">Book Flight</a>
+<a href="/timer">Timer</a>
 <a></a>
 <a></a>
 <a></a>
